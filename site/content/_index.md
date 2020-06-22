@@ -6,7 +6,7 @@ blurb:
   heading: Distributed team = SAAS
   text: "As your team members increasingly work from home or from anywhere in the
     world (the moon or Mars) communication becomes increasingly asynchronous and
-    requires the rights tools to keep everyone from going crazy. "
+    requires the right tools to keep everyone from going crazy. "
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
