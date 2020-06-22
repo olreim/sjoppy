@@ -8,11 +8,9 @@ blurb:
     world (the moon or Mars) communication becomes increasingly asynchronous and
     requires the right tools to keep everyone from going crazy. "
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: What are the differences?
+  text: "Basecamp has been around since 2004 and created the Software-as-a-Service
+    category. "
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
