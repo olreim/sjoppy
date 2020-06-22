@@ -3,11 +3,10 @@ title: Which Project Management SAAS to chose?
 subtitle: "Basecamp, Notion, Slack, Teams "
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Distributed team = SAAS
+  text: "As your team members increasingly work from home or from anywhere in the
+    world (the moon or Mars) communication becomes increasingly asynchronous and
+    requires the rights tools to keep everyone from going crazy. "
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
