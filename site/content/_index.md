@@ -1,7 +1,7 @@
 ---
 title: Which Project Management SAAS to chose?
 subtitle: "Basecamp, Notion, Slack, Teams "
-image: /img/home-jumbotron.jpg
+image: img/slice1.jpg
 blurb:
   heading: Distributed team = SAAS
   text: "As your team members increasingly work from home or from anywhere in the
