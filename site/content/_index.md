@@ -12,7 +12,7 @@ intro:
   text: "Basecamp has been around since 2004 and created the Software-as-a-Service
     category. "
 products:
-  - image: img/basecamp-icon-196x196.png
+  - image: img/logo-bc.png
     text: We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
       of coffee beans grown with great care for the environment and local
