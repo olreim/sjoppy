@@ -5,8 +5,9 @@ image: img/slice1.jpg
 blurb:
   heading: Distributed team = SAAS
   text: "As your team members increasingly work from home or from anywhere in the
-    world (the moon or Mars) communication becomes increasingly asynchronous and
-    requires the right tools to keep everyone from going crazy. "
+    world (or the moon or Mars) communication becomes increasingly asynchronous
+    and requires the right tools to keep everyone from going crazy and project
+    going off the rails. "
 intro:
   heading: What are the key differences?
   text: "Different strokes for different folks. "
