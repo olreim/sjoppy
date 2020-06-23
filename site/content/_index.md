@@ -15,7 +15,7 @@ products:
   - image: img/logo-bc.png
     text: "Basecamp has been around since 2004 and essentially defined the
       Software-as-a-Service category. Aimed at small & medium sized companies
-      like designer and web development shops. "
+      like designers and web development shops. "
   - image: /img/illustrations-coffee-gear.svg
     text: We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
